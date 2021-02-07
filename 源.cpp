@@ -8,6 +8,8 @@ int main()
 	cout << sum(a, b) <<a<<" "<<b<< " " << endl;
 	
 	cout << sum(a, b) << a << " " << b << " "  << endl;
+	cout << "love"<< endl;
+
 	system("pause");
 	return 0;
 }
